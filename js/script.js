@@ -61,4 +61,4 @@ function initCountdown(parent, to) {
 	countdown()
 }
 
-initCountdown('.countdown', '1 January 2023 00:00')
+initCountdown('.countdown', '1 January 2024 00:00')
